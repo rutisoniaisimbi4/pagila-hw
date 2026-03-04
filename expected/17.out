@@ -21,7 +21,7 @@
  Canada                                |  593.63
  Chad                                  |  135.68
  Chile                                 |  328.29
- China                                 | 5798.74
+ China                                 | 5802.73
  Colombia                              |  709.41
  Congo, The Democratic Republic of the |  212.50
  Czech Republic                        |  133.71
@@ -42,13 +42,13 @@
  Holy See (Vatican City State)         |  152.66
  Hong Kong                             |  142.70
  Hungary                               |  111.71
- India                                 | 6628.28
+ India                                 | 6630.27
  Indonesia                             | 1510.33
  Iran                                  |  950.75
  Iraq                                  |  111.73
  Israel                                |  422.01
  Italy                                 |  831.11
- Japan                                 | 3470.75
+ Japan                                 | 3471.74
  Kazakstan                             |  198.48
  Kenya                                 |  253.46
  Kuwait                                |  111.74
@@ -90,7 +90,7 @@
  Sudan                                 |  227.46
  Sweden                                |  144.66
  Switzerland                           |  252.39
- Taiwan                                | 1209.95
+ Taiwan                                | 1210.94
  Tanzania                              |  341.17
  Thailand                              |  419.04
  Tonga                                 |   73.82
@@ -100,8 +100,8 @@
  Tuvalu                                |  120.74
  Ukraine                               |  730.42
  United Arab Emirates                  |  333.16
- United Kingdom                        |  922.81
- United States                         | 4120.27
+ United Kingdom                        |  924.80
+ United States                         | 4110.32
  Venezuela                             |  683.30
  Vietnam                               |  746.28
  Virgin Islands, U.S.                  |  122.68
@@ -109,3 +109,4 @@
  Yugoslavia                            |  259.43
  Zambia                                |  134.67
 (108 rows)
+
